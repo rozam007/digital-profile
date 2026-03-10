@@ -4,7 +4,7 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/index.html"
+      "dest": "/ammarahtoor_digital-creator_problem-solver.html"
     }
   ]
 }
